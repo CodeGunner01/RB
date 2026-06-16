@@ -1,0 +1,45 @@
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\bin\Debug\EXAMENSG.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\bin\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\bin\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\2_2025\Parciales\2do parcial\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\bin\Debug\EXAMENSG.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\bin\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\bin\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG\EXAMENSG\obj\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\bin\Debug\EXAMENSG.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\bin\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\bin\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\obj\Debug\EXAMENSG.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\obj\Debug\EXAMENSG.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\obj\Debug\EXAMENSG.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\obj\Debug\EXAMENSG.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\obj\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2\EXAMENSG\obj\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\bin\Debug\EXAMENSG.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\bin\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\bin\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SG\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\obj\Debug\EXAMENSG.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\bin\Debug\EXAMENSG.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\bin\Debug\EXAMENSG.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\MATRICES\SB\EXAMENSG 1y2  coregiid la 1\EXAMENSG\bin\Debug\EXAMENSG.pdb
